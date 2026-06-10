@@ -1,0 +1,21 @@
+FFmpeg / ffprobe
+================
+
+Bundled component: ffprobe
+Build: N-124881-g6028720d70-20260609
+Target: Windows x86_64, static LGPL build
+Build provider: BtbN/FFmpeg-Builds
+Binary source:
+GitHub Release asset ID 442872826, published 2026-06-09:
+https://api.github.com/repos/BtbN/FFmpeg-Builds/releases/assets/442872826
+Build scripts and corresponding source information:
+https://github.com/BtbN/FFmpeg-Builds
+FFmpeg source:
+https://ffmpeg.org/download.html
+
+SHA-256:
+7088D6433873B357021E3469B60214D21872ACB605CB183F34D6C536A796C3DF
+
+This build is distributed under the GNU Lesser General Public License
+version 3. See LICENSE.txt in this directory. MediaManager invokes ffprobe
+as a separate executable to inspect local media files.
