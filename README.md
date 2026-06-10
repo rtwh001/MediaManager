@@ -17,15 +17,15 @@
 
 ## 界面预览
 
-真实截图位已经准备好。请按照 [截图指南](docs/screenshots/README.md) 提供图片，之后将显示为：
+
 
 | 资料库主页 | 影片详情与在线刮削 |
 | --- | --- |
-| `docs/screenshots/library-overview.png` | `docs/screenshots/media-detail.png` |
+| ![资料库主页](docs/screenshots/library-overview.png) |![影片详情](docs/screenshots/media-detail.png)  |
 
 | 动画中文元数据 | 数据备份与恢复 |
 | --- | --- |
-| `docs/screenshots/anime-scraping.png` | `docs/screenshots/data-safety.png` |
+| ![动画中文元数据 ](docs/screenshots/anime-scraping.png.png) |![图片描述](docs/screenshots/data-safety.png.png)  |
 
 ## 为什么做这个项目
 
