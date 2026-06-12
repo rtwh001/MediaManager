@@ -25,7 +25,7 @@
 
 | 动画中文元数据 | 数据备份与恢复 |
 | --- | --- |
-| ![动画中文元数据 ](docs/screenshots/anime-scraping.png.png) |![图片描述](docs/screenshots/data-safety.png.png)  |
+| ![动画中文元数据](docs/screenshots/anime-scraping.png) | ![数据备份与恢复](docs/screenshots/data-safety.png) |
 
 ## 为什么做这个项目
 
