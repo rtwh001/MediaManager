@@ -17,15 +17,21 @@
 
 ## 界面预览
 
+### 资料库主页
 
+![资料库主页](docs/screenshots/library-overview.png)
 
-| 资料库主页 | 影片详情与在线刮削 |
-| --- | --- |
-| ![资料库主页](docs/screenshots/library-overview.png) |![影片详情](docs/screenshots/media-detail.png)  |
+### 影片详情与在线刮削
 
-| 动画中文元数据 | 数据备份与恢复 |
-| --- | --- |
-| ![动画中文元数据](docs/screenshots/anime-scraping.png) | ![数据备份与恢复](docs/screenshots/data-safety.png) |
+![影片详情与在线刮削](docs/screenshots/media-detail.png)
+
+### 动画中文元数据
+
+![动画中文元数据](docs/screenshots/anime-scraping.png)
+
+### 数据备份与恢复
+
+![数据备份与恢复](docs/screenshots/data-safety.png)
 
 ## 为什么做这个项目
 

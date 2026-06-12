@@ -17,14 +17,21 @@
 
 ## Screenshots
 
-Screenshot slots are prepared under [docs/screenshots](docs/screenshots/README.md). The final gallery will include:
+### Library Overview
 
-- Library overview
-- Media details
-- Chinese anime scraping with Bangumi and AniList
-- Batch management
-- Backup and restore
-- Logs and diagnostics
+![Library overview](docs/screenshots/library-overview.png)
+
+### Media Details And Online Scraping
+
+![Media details and online scraping](docs/screenshots/media-detail.png)
+
+### Chinese Anime Metadata
+
+![Chinese anime metadata](docs/screenshots/anime-scraping.png)
+
+### Backup And Restore
+
+![Backup and restore](docs/screenshots/data-safety.png)
 
 ## Why MediaManager
 
